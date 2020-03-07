@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/J-J-Chen.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/J-J-Chen.github.io/static/js/main.f98c3d80.chunk.js",
-    "main.js.map": "/J-J-Chen.github.io/static/js/main.f98c3d80.chunk.js.map",
-    "runtime-main.js": "/J-J-Chen.github.io/static/js/runtime-main.38882819.js",
-    "runtime-main.js.map": "/J-J-Chen.github.io/static/js/runtime-main.38882819.js.map",
-    "static/js/2.44ffe768.chunk.js": "/J-J-Chen.github.io/static/js/2.44ffe768.chunk.js",
-    "static/js/2.44ffe768.chunk.js.map": "/J-J-Chen.github.io/static/js/2.44ffe768.chunk.js.map",
-    "index.html": "/J-J-Chen.github.io/index.html",
-    "precache-manifest.fa7ea1150f77e16b2370cfb8d9ceda47.js": "/J-J-Chen.github.io/precache-manifest.fa7ea1150f77e16b2370cfb8d9ceda47.js",
-    "service-worker.js": "/J-J-Chen.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/J-J-Chen.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.44ffe768.chunk.js.LICENSE.txt": "/J-J-Chen.github.io/static/js/2.44ffe768.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/J-J-Chen.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/john-chen.ml/static/css/main.5f361e03.chunk.css",
+    "main.js": "/john-chen.ml/static/js/main.ee85b49a.chunk.js",
+    "main.js.map": "/john-chen.ml/static/js/main.ee85b49a.chunk.js.map",
+    "runtime-main.js": "/john-chen.ml/static/js/runtime-main.3bce2c0d.js",
+    "runtime-main.js.map": "/john-chen.ml/static/js/runtime-main.3bce2c0d.js.map",
+    "static/js/2.44ffe768.chunk.js": "/john-chen.ml/static/js/2.44ffe768.chunk.js",
+    "static/js/2.44ffe768.chunk.js.map": "/john-chen.ml/static/js/2.44ffe768.chunk.js.map",
+    "index.html": "/john-chen.ml/index.html",
+    "precache-manifest.9b998d7c4768e7478800fa7dace9533e.js": "/john-chen.ml/precache-manifest.9b998d7c4768e7478800fa7dace9533e.js",
+    "service-worker.js": "/john-chen.ml/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/john-chen.ml/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44ffe768.chunk.js.LICENSE.txt": "/john-chen.ml/static/js/2.44ffe768.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/john-chen.ml/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38882819.js",
+    "static/js/runtime-main.3bce2c0d.js",
     "static/js/2.44ffe768.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f98c3d80.chunk.js"
+    "static/js/main.ee85b49a.chunk.js"
   ]
 }
